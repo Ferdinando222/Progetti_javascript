@@ -1,0 +1,26 @@
+body{
+  background:  #899 no-repeat fixed center;
+}
+
+#title{
+  position: absolute;
+  font-weight: bold;
+  display: inline-flex;
+  font-family:'Amaranth';
+  font-size: 45px;
+  top:0%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center; 
+}
+
+#button{
+  position: absolute;
+  font-weight: bold;
+  display: inline-flex;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center; 
+  
+}
